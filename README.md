@@ -1,9 +1,11 @@
 # UCI-sysbio-2020
 
+## Handouts 
+1. Preflight Checklist: set up your development environment)
 
-1. Lecture: Introduction to PhysiCell:
-* Slides (PDF): 
-2. Preflight Checklist: (set up your development environment)
-* Handout (PDF): 
-3. Lab (day 1):
-4. Lab (day 2):
+## Lecture and Lab Notes 
+1. Lecture: Introduction to PhysiCell 
+1. Lab 1:
+1. Lab 2: 
+ 
+## Codes 
