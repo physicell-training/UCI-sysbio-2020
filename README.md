@@ -6,7 +6,7 @@ https://ccbs.uci.edu/education/fasb-sc/
 [Internet Archive snapshot](https://web.archive.org/web/20200125184905/https://ccbs.uci.edu/education/fasb-sc/program-details/)
 
 ## Handouts 
-1. [Preflight Checklist: set up your development environment)](https://github.com/physicell-training/UCI-sysbio-2020/blob/master/handouts/PhysiCell%20Intro%20-%20Jan%2025%2C%202020.pdf)
+1. [Preflight Checklist: set up your development environment)](https://github.com/physicell-training/UCI-sysbio-2020/blob/master/handouts/PhysiCell%20preflight%20checklist%20(final).pdf)
 
 ## Lecture and Lab Notes 
 1. [Lecture: Introduction to PhysiCell](https://github.com/physicell-training/UCI-sysbio-2020/blob/master/lectures-and-labs/PhysiCell%20Intro%20-%20Jan%2025%2C%202020.pdf)
