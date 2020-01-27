@@ -10,7 +10,7 @@ https://ccbs.uci.edu/education/fasb-sc/
 
 ## Lecture and Lab Notes 
 1. [Lecture: Introduction to PhysiCell](https://github.com/physicell-training/UCI-sysbio-2020/blob/master/lectures-and-labs/PhysiCell%20Intro%20-%20Jan%2025%2C%202020.pdf)
-1. Lab 1:
+1. [Lab 1 (Parts 1-4)](https://github.com/physicell-training/UCI-sysbio-2020/blob/master/lectures-and-labs/PhysiCell%20Lab%20(day%201)%20-%20Jan%2027%2C%202020.pdf)
 1. Lab 2: 
  
 ## Codes 
